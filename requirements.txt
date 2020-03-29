@@ -1,0 +1,23 @@
+telethon>=1.10.6
+pip>=19.2.3
+hastebin.py
+async_generator
+pybase64
+zalgo_text
+pyfiglet
+lxml
+selenium
+aria2p 
+chatterbot
+chatterbot_corpus>=1.2.0
+-r ./requirements-stdborg.txt
+gitpython
+heroku>=0.1.4
+dnspython
+opencv-contrib-python
+opencv_python>=1.1.1
+numpy>=1.11.1
+hiredis>=1.0.0
+dill>=0.3.1.1
+covid
+heroku3
